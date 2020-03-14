@@ -15,9 +15,7 @@ Well here is a list of things that will help you:
 ###### 98------|BMB9C-2TXWY-TYD2H-FMQ2D-2J84C|.ISO---
 ###### 2000----|RM233-2PRQQ-FR4RH-JP89H-46QYB|.ISO---
 ###### XP------|M6TF9-8XQ2M-YQK9F-7TBB2-XGG88|.ISO---
-###### VISTA----||----------
-###### --------|---BLANKSLOT--------------|----------
-###### VISTA---|--------------------------|.ISO------
+###### VISTA---|-----------------------------|.ISO------
 
 
 
